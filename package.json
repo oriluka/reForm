@@ -1,0 +1,25 @@
+{
+  "name": "reform",
+  "version": "1.0.0",
+  "description": "a form app",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oriluka/reForm.git"
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "Mariah Tato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oriluka/reForm/issues"
+  },
+  "homepage": "https://github.com/oriluka/reForm#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
