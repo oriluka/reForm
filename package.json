@@ -4,7 +4,8 @@
   "description": "a form app",
   "main": "index.js",
   "scripts": {
-    "test": "tests"
+    "test": "tests",
+    "start": "node ./server/index.js"
   },
   "repository": {
     "type": "git",
